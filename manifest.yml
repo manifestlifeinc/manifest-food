@@ -4,5 +4,5 @@ applications:
   instances: 1
   domain: mybluemix.net
   name: outpost
-  host: outpost
+  host: manifest-food
   disk_quota: 1024M
